@@ -8,4 +8,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Setul 3\" />
+    <Folder Include="Setul 2\" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,14 @@
+D:\Fundamentele Programarii Homework\bin\Debug\net6.0\Fundamentele Programarii Homework.exe
+D:\Fundamentele Programarii Homework\bin\Debug\net6.0\Fundamentele Programarii Homework.deps.json
+D:\Fundamentele Programarii Homework\bin\Debug\net6.0\Fundamentele Programarii Homework.runtimeconfig.json
+D:\Fundamentele Programarii Homework\bin\Debug\net6.0\Fundamentele Programarii Homework.dll
+D:\Fundamentele Programarii Homework\bin\Debug\net6.0\Fundamentele Programarii Homework.pdb
+D:\Fundamentele Programarii Homework\obj\Debug\net6.0\Fundamentele Programarii Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fundamentele Programarii Homework\obj\Debug\net6.0\Fundamentele Programarii Homework.AssemblyInfoInputs.cache
+D:\Fundamentele Programarii Homework\obj\Debug\net6.0\Fundamentele Programarii Homework.AssemblyInfo.cs
+D:\Fundamentele Programarii Homework\obj\Debug\net6.0\Fundamentele Programarii Homework.csproj.CoreCompileInputs.cache
+D:\Fundamentele Programarii Homework\obj\Debug\net6.0\Fundamentele Programarii Homework.dll
+D:\Fundamentele Programarii Homework\obj\Debug\net6.0\refint\Fundamentele Programarii Homework.dll
+D:\Fundamentele Programarii Homework\obj\Debug\net6.0\Fundamentele Programarii Homework.pdb
+D:\Fundamentele Programarii Homework\obj\Debug\net6.0\Fundamentele Programarii Homework.genruntimeconfig.cache
+D:\Fundamentele Programarii Homework\obj\Debug\net6.0\ref\Fundamentele Programarii Homework.dll

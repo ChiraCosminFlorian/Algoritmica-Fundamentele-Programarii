@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fundamentele Programarii Homework/1.0.0": {
+        "runtime": {
+          "Fundamentele Programarii Homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamentele Programarii Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
